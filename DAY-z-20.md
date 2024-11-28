@@ -131,6 +131,7 @@ This repository provides a list of important Linux commands that are frequently 
 
 ## Here are the top 50 networking commands in Linux:
 
+curl ifconfig.me - displays your public ip address
 
 1. `ifconfig`: Displays or configures network interfaces.
    Example: `ifconfig eth0`
